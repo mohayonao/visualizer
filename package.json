@@ -1,0 +1,27 @@
+{
+  "name": "@mohayonao/visualizer",
+  "description": "canvas animation utility",
+  "version": "0.0.0",
+  "author": "Nao Yonamine <mohayonao@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/mohayonao/visualizer/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "package.json",
+    "README.md",
+    "lib"
+  ],
+  "homepage": "https://github.com/mohayonao/visualizer/",
+  "keywords": [
+    "canvas",
+    "animation"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohayonao/visualizer.git"
+  }
+}
